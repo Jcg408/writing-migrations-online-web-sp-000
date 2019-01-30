@@ -1,1 +1,3 @@
-class AddGradeBirthdate << ActiveRecord::Migration
+class AddGradeBirthdate << ActiveRecord::Migration[5.1]
+
+end
